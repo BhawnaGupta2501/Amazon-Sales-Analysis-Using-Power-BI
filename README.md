@@ -1,4 +1,4 @@
-Excited to share a recent project where I developed **Amazon Sales Analysis Using Power BI.**
+Excited to share a recent project where I developed a Dashboard **Amazon Sales Analysis Using Power BI.**
 
 This comprehensive dashboard aims to provide clear insights into product performance and logistics.
 
